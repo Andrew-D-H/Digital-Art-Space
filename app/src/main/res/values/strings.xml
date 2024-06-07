@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Digital Art Space</string>
+
+    <string name="title_1">Relaxing by the window</string>
+    <string name="artist_1">mochigushi_</string>
+
+    <string name="title_2">Pure White</string>
+    <string name="artist_2">UNICHA_FF14</string>
+
+    <string name="title_3">Reflections in the glass</string>
+    <string name="artist_3">kuroichigo_tw</string>
+
+    <string name="title_4">To the Office</string>
+    <string name="artist_4">mer_unipi</string>
+
+    <string name="title_5">Two Best Friends</string>
+    <string name="artist_5">mm30212</string>
 </resources>
